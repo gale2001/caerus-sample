@@ -1,0 +1,4 @@
+*.pyc
+.DS_Store
+sample.db
+celery-broker.db

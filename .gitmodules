@@ -1,0 +1,3 @@
+[submodule "caerus"]
+	path = caerus
+	url = git@github.com:gale2001/caerus.git
